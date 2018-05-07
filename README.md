@@ -6,3 +6,6 @@
 [assignment3](https://github.com/SimoneVos/assignment/blob/master/assignment3.ipynb)
 
 [assignment4](http://localhost:8888/notebooks/Downloads/assignment4.ipynb#)
+
+
+[assignment5](https://github.com/SimoneVos/assignment/blob/master/R%20week%205%20assignment.ipynb)
