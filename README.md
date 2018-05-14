@@ -1,6 +1,6 @@
 # assignment
 
-[assignment2](http://localhost:8888/notebooks/Downloads/assignment2%20(3).ipynb#)
+[assignment2](https://github.com/SimoneVos/assignment/blob/master/assignment2%20(3).ipynb)
 
 
 [assignment3](https://github.com/SimoneVos/assignment/blob/master/assignment3.ipynb)
