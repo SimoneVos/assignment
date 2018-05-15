@@ -8,3 +8,5 @@
 [assignment4](https://github.com/SimoneVos/assignment/blob/master/assignment4%20(2).ipynb)
 
 [assignment5](https://github.com/SimoneVos/assignment/blob/master/R%20week%205%20assignment.ipynb)
+
+[assignment6, R week 6](https://github.com/SimoneVos/assignment/blob/master/Graded_assignment_2%20R%20week%206.ipynb)
